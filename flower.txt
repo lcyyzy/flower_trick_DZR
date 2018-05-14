@@ -1,0 +1,1 @@
+setInterval(function () { document.querySelector('div.idol_vote_info').click(); },500);
